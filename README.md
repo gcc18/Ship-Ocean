@@ -1,2 +1,2 @@
 # Ship-Ocean
-Project for graduate
+just a simple demo
