@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/dell/data/ROS2_WS/src/airsim_ros2_msgs/include/**",
+        "/usr/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/dell/data/GitDownload/AirSim/AirLib/deps/eigen3/**",
+        "/home/dell/data/GitDownload/AirSim/AirLib/include/**",
+        "/home/dell/data/GitDownload/AirSim/MavLinkCom/include/**",
+        "/home/dell/data/GitDownload/AirSim/MavLinkCom/common_utils/**",
+        "/home/dell/data/GitDownload/AirSim/external/rpclib/rpclib-2.2.1/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
